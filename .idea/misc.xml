@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/izzy/app/src/main/res/layout/bill_cardview.xml" value="0.262037037037037" />
+        <entry key="..\:/izzy/app/src/main/res/layout/content_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/izzy/app/src/main/res/layout/credit_car_cardview.xml" value="0.36666666666666664" />
+        <entry key="..\:/izzy/app/src/main/res/layout/credit_cardview.xml" value="0.36666666666666664" />
+        <entry key="..\:/izzy/app/src/main/res/layout/credit_screen_credit_first_step_popup.xml" value="0.36666666666666664" />
+        <entry key="..\:/izzy/app/src/main/res/layout/credit_screen_credit_second_step_popup.xml" value="0.36666666666666664" />
+        <entry key="..\:/izzy/app/src/main/res/layout/finance_fragment.xml" value="0.5" />
+        <entry key="..\:/izzy/app/src/main/res/layout/history_card_view.xml" value="0.35044642857142855" />
+        <entry key="..\:/izzy/app/src/main/res/layout/history_popup.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

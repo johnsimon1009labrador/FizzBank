@@ -38,7 +38,11 @@ You can also pay bills using the Fizzbank mobile banking app.
 
 # Personal Information
 ![image](https://user-images.githubusercontent.com/109772780/180356309-2ff77f9b-6ee0-47fa-8b2a-717a47281a71.png)
+
 Here you can edit and update your personal account or info if you want some changes in your account.
+
+# Demo Video
+https://www.youtube.com/watch?v=_57Ix3Yg0Qo&t=21s
 
 # Researcher/Developer
 - John Simon Labrador
